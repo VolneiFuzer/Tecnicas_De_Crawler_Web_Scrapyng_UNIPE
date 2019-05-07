@@ -1,0 +1,6 @@
+6)	Você diria que bots ou crawlers são programas facilmente paralelizáveis? 
+    Se sim, explique como isso seria implementado dando um exemplo.
+
+Sim, os bots ou crawlers são programas paralelizáveis. As tarefas executadas pelos crawlers e bots podem
+ser divididas em subtarefas independentes umas das outras principalmente porque não há necessidade de ordem
+na execução das tarefas muito menos de troca de informação entre elas.

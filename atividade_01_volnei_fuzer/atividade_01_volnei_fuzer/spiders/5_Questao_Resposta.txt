@@ -1,0 +1,8 @@
+5)	Quais ameaças capturas automáticas proporcionam para sistemas web?
+
+Primeirmanete, como é possível criar paralelizar as aplicações de captura automáticas, os sistemas web
+podem sofrer uma quantidade grande de acessos o que poderá derrubar o servidor deixando o serviço
+indisponivel (negação de serviço /  DDoS – Distributed Denial-of-Service).
+
+Elem disso, a pratica de captura automática pode identificar falhas de segurança no site e expor ou obter dados
+sigilosos para a organização.

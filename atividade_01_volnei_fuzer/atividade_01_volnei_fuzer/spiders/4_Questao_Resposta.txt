@@ -1,0 +1,9 @@
+4)	Quais cuidados devem ser observados ao capturar dados de um site?
+
+São 4 os cuidados que devem ser tomados para evitar primeiramente não ferir os aspectos legais dos sites 
+que serão utilizados:
+
+    1) O conteúdo capturado não tem direitos autorais
+    2) Scraping não onera o serviços do site 
+    3) O scraper não viola os termos de uso do site 
+    4) O scraper não coleta informações sensíveis
